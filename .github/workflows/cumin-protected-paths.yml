@@ -24,7 +24,7 @@ jobs:
     # The ruleset requires a check with this name. Do not rename it.
     name: cumin-protected-paths
     # setup-repo.sh replaces the placeholder with "<implementer app slug>[bot]".
-    if: github.event.pull_request.user.login == 'mkuri'
+    if: github.event.pull_request.user.login == 'nobody[bot]'
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
