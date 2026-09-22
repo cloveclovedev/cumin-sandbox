@@ -25,6 +25,3 @@ protected_paths = [
   ".claude/",
   "/docs/requirements/",
 ]
-
-# Live check of requirement #102 of cumin-works: a key of the Host.
-work_dir = "/tmp/not-allowed"
