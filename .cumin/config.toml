@@ -25,3 +25,10 @@ protected_paths = [
   ".claude/",
   "/docs/requirements/",
 ]
+
+# Live check of requirement #102 of cumin-works. Removed at the end.
+max_review_rounds = 2
+merge_method = "rebase"
+
+[roles.implementer]
+model = "sonnet"
