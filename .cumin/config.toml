@@ -26,9 +26,5 @@ protected_paths = [
   "/docs/requirements/",
 ]
 
-# Live check of requirement #102 of cumin-works. Removed at the end.
-max_review_rounds = 2
-merge_method = "rebase"
-
-[roles.implementer]
-model = "sonnet"
+# Live check of requirement #102 of cumin-works: a key of the Host.
+work_dir = "/tmp/not-allowed"
