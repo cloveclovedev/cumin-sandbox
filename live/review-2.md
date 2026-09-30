@@ -3,4 +3,3 @@
 The live scenario Review-2 checks one round of requested changes.
 The Reviewer requests changes in round 1, and the Implementer fixes them
 in the same session. The Reviewer then approves the pull request in round 2.
-This extra line is much longer than eighty characters on purpose, so that the Reviewer has one acceptance criterion to request.
