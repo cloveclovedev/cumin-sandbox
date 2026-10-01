@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 250" width="360" height="250" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect width="360" height="250" fill="#FFFFFF"/>
+  <rect x="10" y="10" width="340" height="230" rx="6" fill="#F7F7F7" stroke="#555555" stroke-width="1"/>
+  <text x="22" y="32" fill="#222222">cumin-sandbox (repository)</text>
+  <rect x="24" y="44" width="150" height="34" rx="4" fill="#FFFFFF" stroke="#555555" stroke-width="1"/>
+  <text x="34" y="66" fill="#222222">README.md (no change)</text>
+  <rect x="24" y="90" width="312" height="138" rx="4" fill="#FFFFFF" stroke="#555555" stroke-width="1"/>
+  <text x="34" y="110" fill="#222222">live/e2e-20261001-172631/</text>
+  <rect x="38" y="122" width="130" height="38" rx="4" fill="#FFFFFF" stroke="#555555" stroke-width="1"/>
+  <text x="103" y="146" text-anchor="middle" fill="#555555" font-weight="normal">short.md</text>
+  <rect x="190" y="122" width="130" height="38" rx="4" fill="#FFFFFF" stroke="#D62728" stroke-width="3"/>
+  <text x="255" y="146" text-anchor="middle" fill="#D62728" font-weight="bold">labels.md</text>
+  <text x="38" y="186" fill="#D62728">This issue adds labels.md:</text>
+  <text x="38" y="206" fill="#D62728">a heading and a table of 7 labels.</text>
+</svg>
