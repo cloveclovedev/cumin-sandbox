@@ -1,0 +1,1 @@
+The live scenario Merge-1 of cumin-works checks how cumin merges a pull request. cumin merges a pull request with the label `risk/low` by itself after the checks and the review pass. For a higher risk, cumin waits for the Owner and merges after the Owner approves.
